@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "kanalearnnative",
+    "name": "KanaLearn",
     "slug": "kanalearnnative",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +22,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.anasequeira.kanalearn"
+      "package": "com.kanalearn"
     },
     "web": {
       "favicon": "./assets/favicon.png"
